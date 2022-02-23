@@ -29,7 +29,7 @@ funcionalidad extra.
 
 
 Consideraciones:
-En en la carpeta resources/main/application.properties borre o cambie el usuario y password, por el local de lo contrario hikari no compila.
+En en la carpeta resources/main/application.properties borre o cambie el usuario y password, por el local de lo contrario no compila.
 
 spring.datasource.username=postgres
 spring.datasource.password=admin
